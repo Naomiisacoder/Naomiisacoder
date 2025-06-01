@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on mastering Git and Github.
 - 🌱 I’m currently learning Cloud Engineering with Altschool Africa
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with getting a remote job.
