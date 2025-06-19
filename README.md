@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name Naomi Onwuka a Cybersecuruty Analyst .
 - 🔭 I’m currently working on mastering Git and Github.
 - 🌱 I’m currently learning Cloud Engineering with Altschool Africa
 - 👯 I’m looking to collaborate on ...
