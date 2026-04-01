@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name Naomi Onwuka a Cybersecuruty Analyst .
+My name Naomi Onwuka.
 - 🔭 I’m currently working on mastering Git and Github.
 - 🌱 I’m currently learning DevSecOps with ParoCyber
 - 👯 I’m looking to collaborate on ...
