@@ -1,13 +1,13 @@
 ## Hi there 👋
 My name Naomi Onwuka.
 - 🔭 I’m currently working on mastering Git and Github.
-- 🌱 I’m currently learning DevSecOps with ParoCyber
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with getting a remote job.
+- 🌱 I’m currently learning DevSecOps with ParoCyber,Interning with GISOC as a SOC Analyst.
+- 👯 I’m looking to collaborate on ,any proposals that would strengthen my skill set and make me better at what I do.
+- 🤔 I’m looking for help with getting my first job as a Security Analyst.
 - 💬 Ask me about ...
 - 📫 How to reach me: onwukanaomi2@outlook.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy alot of things like playing Volley ball,writing,learning anything that catches my attention 😄,currently leanring chess.
 
 <!--
 **Naomiisacoder/Naomiisacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
