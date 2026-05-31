@@ -7,7 +7,7 @@ My name Naomi Onwuka.
 - 💬 Ask me about ...
 - 📫 How to reach me: onwukanaomi2@outlook.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I enjoy alot of things like playing Volley ball,writing,learning anything that catches my attention 😄,currently leanring chess.
+- ⚡ Fun fact: I enjoy alot of things like playing Volley ball,writing,learning anything that catches my attention 😄,currently learning chess.
 
 <!--
 **Naomiisacoder/Naomiisacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
